@@ -11,7 +11,7 @@ smtp_port = 587
 
 # Email account credentials
 sender_email = "@gmail.com"
-password = "xkntfbpksztpweqe"
+password = ""
 
 # Connect to the email server and authenticate the user
 server = smtplib.SMTP(smtp_server, smtp_port)
