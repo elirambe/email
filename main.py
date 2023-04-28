@@ -10,7 +10,7 @@ smtp_server = "smtp.gmail.com"
 smtp_port = 587
 
 # Email account credentials
-sender_email = "eliram26@gmail.com"
+sender_email = "@gmail.com"
 password = "xkntfbpksztpweqe"
 
 # Connect to the email server and authenticate the user
